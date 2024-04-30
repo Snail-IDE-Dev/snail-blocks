@@ -259,6 +259,7 @@ Blockly.OUTPUT_SHAPE_SQUARE = 3;
  * @const
  */
 Blockly.Categories = {
+  "camera": "camera",
   "motion": "motion",
   "looks": "looks",
   "sound": "sounds",
